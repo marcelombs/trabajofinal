@@ -1,0 +1,165 @@
+{
+  "estudiantes": [
+    {
+      "id": "1",
+      "nombre": "marcelo",
+      "apellido": "bustillos",
+      "edad": 35,
+      "carrera": "informática"
+    },
+    {
+      "id": "2",
+      "nombre": "jenny",
+      "apellido": "yujra",
+      "edad": 25,
+      "carrera": "contabilidad"
+    },
+    {
+      "id": "3",
+      "nombre": "miguel",
+      "apellido": "balboa",
+      "edad": 37,
+      "carrera": "administracion"
+    },
+    {
+      "id": "4",
+      "nombre": "jacqueline",
+      "apellido": "choque",
+      "edad": 35,
+      "carrera": "enfermeria"
+    },
+    {
+      "id": "5",
+      "nombre": "pedro",
+      "apellido": "rocabado",
+      "edad": 33,
+      "carrera": "medicina"
+    },
+    {
+      "id": "6",
+      "nombre": "antonio",
+      "apellido": "silvia",
+      "edad": 45,
+      "carrera": "contabilidad"
+    },
+    {
+      "id": "7",
+      "nombre": "irene",
+      "apellido": "mayta",
+      "edad": 36,
+      "carrera": "odontología"
+    },
+    {
+      "id": "8",
+      "nombre": "mery",
+      "apellido": "mamani",
+      "edad": 38,
+      "carrera": "turismo"
+    },
+    {
+      "id": "9",
+      "nombre": "martha",
+      "apellido": "sanchez",
+      "edad": 45,
+      "carrera": "ciencias de la educación"
+    },
+    {
+      "id": "10",
+      "nombre": "nicole",
+      "apellido": "condori",
+      "edad": 27,
+      "carrera": "administración"
+    },
+    {
+      "id": "ee47",
+      "nombre": "Lulu",
+      "apellido": "Rulitos",
+      "edad": 24,
+      "carrera": "administración"
+    },
+    {
+      "id": "9a0a",
+      "nombre": "Lulu",
+      "apellido": "Rulitos",
+      "edad": 24,
+      "carrera": "administración"
+    },
+    {
+      "id": "0800",
+      "nombre": "Lulu",
+      "apellido": "Rulitos",
+      "edad": 24,
+      "carrera": "administración"
+    },
+    {
+      "id": "0d09",
+      "nombre": "Lulu",
+      "apellido": "Rulitos",
+      "edad": 24,
+      "carrera": "administración"
+    },
+    {
+      "id": "1c52",
+      "nombre": "Lulu",
+      "apellido": "Rulitos",
+      "edad": 24,
+      "carrera": "administración"
+    },
+    {
+      "id": "0468",
+      "nombre": "Lulu",
+      "apellido": "Rulitos",
+      "edad": 24,
+      "carrera": "administración"
+    },
+    {
+      "id": "4d72",
+      "nombre": "Lulu",
+      "apellido": "Rulitos",
+      "edad": 24,
+      "carrera": "administración"
+    },
+    {
+      "id": "1e19",
+      "nombre": "Lulu",
+      "apellido": "Rulitos",
+      "edad": 24,
+      "carrera": "administración"
+    },
+    {
+      "id": "28ce",
+      "nombre": "Lulu",
+      "apellido": "Rulitos",
+      "edad": 24,
+      "carrera": "administración"
+    },
+    {
+      "id": "cf6b",
+      "nombre": "faf",
+      "apellido": "afa",
+      "edad": "2332",
+      "carrera": "fffd"
+    },
+    {
+      "id": "7812",
+      "nombre": "marcelo",
+      "apellido": "bustillos",
+      "edad": "33",
+      "carrera": "sistemas"
+    },
+    {
+      "id": "f25e",
+      "nombre": "jacqueline",
+      "apellido": "choque",
+      "edad": "35",
+      "carrera": "enfermeria"
+    },
+    {
+      "id": "73b6",
+      "nombre": "armin",
+      "apellido": "fernandez",
+      "edad": "32",
+      "carrera": "tecnico"
+    }
+  ]
+}
