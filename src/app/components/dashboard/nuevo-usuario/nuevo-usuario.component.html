@@ -1,0 +1,29 @@
+<app-navbar></app-navbar>
+<section>
+    <form [formGroup]="formularioEstudiante" (ngSubmit)="guardarDatos()">
+        <mat-form-field>
+            <mat-label>Nombre</mat-label>
+            <input matInput formControlName="nombre">
+        </mat-form-field>
+
+        <mat-form-field>
+            <mat-label>Apellido</mat-label>
+            <input matInput formControlName="apellido">
+        </mat-form-field>
+
+        <mat-form-field>
+            <mat-label>Edad</mat-label>
+            <input matInput formControlName="edad">
+        </mat-form-field>
+
+        <mat-form-field>
+            <mat-label>Carrera</mat-label>
+            <input matInput formControlName="carrera">
+        </mat-form-field>
+
+        <button type="submit" color="primary" mat-raised-button>Guardar</button>
+        <button mat-raised-button >Cancelar</button>
+
+    </form>
+
+</section>
